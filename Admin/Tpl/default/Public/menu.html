@@ -10,7 +10,7 @@
 			<neq name="item['name']|strtolower" value="public" >
 				<neq name="item['name']|strtolower" value="index" >
 				<eq name="item['access']" value="1">
-				<li><a href="__APP__?m={$item['name']}&a=index" target="navTab" rel="{$item['name']}">{$item['title']}</a></li>
+				<li><a href="__APP__/{$item['name']}/index" target="navTab" rel="{$item['name']}">{$item['title']}</a></li>
 				</eq>
 				</neq>
 			</neq>

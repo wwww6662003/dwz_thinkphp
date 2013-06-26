@@ -4,7 +4,7 @@
 // +----------------------------------------------------------------------
 
 // 定义ThinkPHP框架路径
-define('THINK_PATH', '../ThinkPHP');
+define('THINK_PATH', '../ThinkPHP2.2');
 //定义项目名称和路径
 define('APP_NAME', 'Admin');
 define('APP_PATH', '.');
